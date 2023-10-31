@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: it.claranet.noleggioAuto.NoleggioAutoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.883 s - in it.claranet.noleggioAuto.NoleggioAutoApplicationTests
